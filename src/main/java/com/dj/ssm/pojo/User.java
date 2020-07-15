@@ -10,6 +10,7 @@ import lombok.Data;
 @TableName("user")
 public class User {
 
+    String aa = "aaa";
     @TableId(type = IdType.AUTO)
     private Integer id;
     @TableField("user_name")
