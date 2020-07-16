@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class UserController {
 
     String aa = "aaaa";
+    String bb = "aaaa";
     @Autowired
     private UserService userService;
 
