@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class UserController {
 
     String dd = "dddd";
-    String cc = "cccc"
+    String cc = "cccc";
     String aa = "aaaa";
     String bb = "aaaa";
     /**
