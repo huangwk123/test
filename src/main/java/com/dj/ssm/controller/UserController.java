@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class UserController {
 
+    String cc = "cccc"
     String aa = "aaaa";
     String bb = "aaaa";
     /**
